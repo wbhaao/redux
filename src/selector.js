@@ -12,4 +12,4 @@ const countStateSelector = selector({
   },
 });
 
-export default countStateSelector;
+export { countStateSelector };

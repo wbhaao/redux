@@ -1,5 +1,4 @@
 import React from "react";
-import countState from "./Atoms";
 import { countState, inputState } from "./Atoms"; // 새로 변경된 코드
 import { countStateSelector } from "./selector"; // 새로 추가된 코드
 import {
